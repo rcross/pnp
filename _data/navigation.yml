@@ -26,20 +26,10 @@ main:
     url: /about/
   - title: "Sample Posts"
     url: /year-archive/
-  - title: "Pets"
-      url: /pets/
-  - title: "Recipes"
-      url: /recipes/
-  - title: "Portfolio"
-    url: /portfolio/
   - title: "Sample Collections"
     url: /collection-archive/
-  - title: "Site Map"
-    url: /sitemap/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
-  - title: "Recent Posts"
-    url: /recent/
 
 
 # documentation links
