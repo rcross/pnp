@@ -31,6 +31,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
   - title: "Sample Tags"
+    url: /tags/
+  - title: "Year Archive"
     url: /year-archive/
   - title: "Sample Collections"
     url: /collection-archive/
