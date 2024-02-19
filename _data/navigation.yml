@@ -38,6 +38,8 @@ main:
     url: /sitemap/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
+  - title: "Recent Posts"
+    url: /recent/
 
 
 # documentation links
