@@ -24,8 +24,8 @@ main:
     url: /docs/quick-start-guide/
   - title: "About"
     url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
+  - title: "Pets"
+    url: /pets/
   - title: "Sample Collections"
     url: /collection-archive/
   - title: "Terms &amp; Privacy Policy"
