@@ -26,10 +26,10 @@ main:
     url: /about/
   - title: "Sample Posts"
     url: /year-archive/
- - title: "Pets"
-    url: /pets/
- - title: "Recipes"
-    url: /recipes/
+  - title: "Pets"
+      url: /pets/
+  - title: "Recipes"
+      url: /recipes/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Sample Collections"
