@@ -26,6 +26,8 @@ main:
     url: /about/
   - title: "Pets"
     url: /pets/
+  - title: "Sample Tags"
+    url: /year-archive/
   - title: "Sample Collections"
     url: /collection-archive/
   - title: "Terms &amp; Privacy Policy"
