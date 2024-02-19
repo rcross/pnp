@@ -1,7 +1,7 @@
 ---
 title: Edge Case
 layout: category
-permalink: /categories/jekyll/
+permalink: /jekyll/
 taxonomy: Jekyll
 ---
 
