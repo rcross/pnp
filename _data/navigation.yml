@@ -36,6 +36,10 @@ main:
     url: /year-archive/
   - title: "Sample Collections"
     url: /collection-archive/
+  - title: "Category Archive"
+    url: /categories/
+  - title: "Single Collection of Things"
+    url: /categories/jekyll
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
 
