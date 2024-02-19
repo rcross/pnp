@@ -26,6 +26,10 @@ main:
     url: /about/
   - title: "Sample Posts"
     url: /year-archive/
+ - title: "Pets"
+    url: /pets/
+ - title: "Recipes"
+    url: /recipes/
   - title: "Sample Collections"
     url: /collection-archive/
   - title: "Terms &amp; Privacy Policy"
