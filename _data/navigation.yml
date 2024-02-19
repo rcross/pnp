@@ -38,8 +38,8 @@ main:
     url: /collection-archive/
   - title: "Category Archive"
     url: /categories/
-  - title: "Single Collection of Things"
-    url: /categories/jekyll
+  - title: "Single Category of Tools"
+    url: /tools
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
 
